@@ -1,2 +1,6 @@
 # hello-world
-just trying to learn
+
+hello guys:
+
+Rishabh here,the traveller.
+
